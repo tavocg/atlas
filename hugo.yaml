@@ -26,21 +26,43 @@ menu:
         type: link
         icon: calendar
 
-    - identifier: about
-      name: About
-      pageRef: /about
+    - identifier: services
+      name: Services
+      pageRef: /services
       weight: 2
+      params:
+        type: link
+        icon: briefcase
+
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 3
       params:
         type: link
         icon: user
 
-    - name: Search
+    - identifier: about
+      name: About
+      pageRef: /about
       weight: 4
+      params:
+        type: link
+        icon: information-circle
+
+    - name: Search
+      weight: 5
       params:
         type: search
 
+    - name: Instagram
+      url: 'https://www.instagram.com/atlasconsulting.cr/'
+      weight: 6
+      params:
+        icon: instagram
+
     - name: Language Switcher
-      weight: 5
+      weight: 7
       params:
         type: language-switch
         icon: translate
@@ -58,7 +80,7 @@ enableGitInfo: true
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
     logo:
       path: favicon.svg
 
@@ -79,6 +101,6 @@ params:
 
   displayUpdatedDate: true
 outputs:
-  home: [html, llms, rss]
-  page: [html, rss]
+  home: [html, llms]
+  page: [html]
   section: [html, rss]
