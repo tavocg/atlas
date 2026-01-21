@@ -89,7 +89,6 @@ toc: false
   .nav-card {
     position: relative;
     background: rgba(255, 255, 255, 0.03);
-    backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 20px;
     padding: 2.5rem 2rem;
