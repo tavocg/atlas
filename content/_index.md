@@ -212,19 +212,19 @@ toc: false
       <!-- Tarjetas de navegación -->
       <div class="nav-cards">
         <a href="services" class="nav-card">
-          <span class="card-icon">📊</span>
-          <h3 class="card-title">Analítica Deportiva</h3>
-          <p class="card-description">Métricas avanzadas, KPIs y análisis de datos para optimizar el rendimiento</p>
+          <span class="card-icon">🏟️</span>
+          <h3 class="card-title">Consultoría para Eventos Deportivos</h3>
+          <p class="card-description">Consultas estratégicas, planificación integral y evaluación para eventos deportivos con o sin fines de lucro</p>
+        </a>
+        <a href="services" class="nav-card">
+          <span class="card-icon">🧭</span>
+          <h3 class="card-title">Asesoría Administrativa y Estratégica</h3>
+          <p class="card-description">Diagnóstico organizacional, revisión de procesos y planes de mejora para organizaciones deportivas</p>
         </a>
         <a href="services" class="nav-card">
           <span class="card-icon">💻</span>
-          <h3 class="card-title">Transformación Digital</h3>
-          <p class="card-description">Soluciones tecnológicas y digitalización para organizaciones deportivas</p>
-        </a>
-        <a href="services" class="nav-card">
-          <span class="card-icon">🎯</span>
-          <h3 class="card-title">Consultoría Estratégica</h3>
-          <p class="card-description">Planificación, desarrollo y gestión integral de proyectos deportivos</p>
+          <h3 class="card-title">Plataforma y Digitalización de Torneos</h3>
+          <p class="card-description">Inscripciones, calendario, estadísticas y resultados en tiempo real en una sola plataforma</p>
         </a>
         <a href="blog" class="nav-card">
           <span class="card-icon">📰</span>
