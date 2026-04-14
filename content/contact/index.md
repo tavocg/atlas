@@ -49,7 +49,7 @@ toc: false
 <br>
 <div style="display:flex;flex-wrap:wrap;gap:2rem;justify-content:center">
   <div style="width:20rem">
-    <img src="beto.webp">
+    <img src="beto.jpeg">
 
 > Watching a horror movie while drinking coffee. 🍵
 
