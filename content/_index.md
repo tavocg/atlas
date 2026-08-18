@@ -22,6 +22,8 @@ toc: false
   </div>
 </div>
 
+{{< latest-posts title="Últimas publicaciones" limit="3" >}}
+
 {{< cards cols="1" >}}
   {{< card link="services" icon="book-open" title="Consultoría para Eventos Deportivos" image="https://cdn.pixabay.com/photo/2017/05/31/21/48/handball-2361778_1280.jpg" subtitle="Consultas estratégicas, planificación integral y evaluación para eventos deportivos con o sin fines de lucro" tag="Cotización gratis">}}
   {{< card link="services" icon="briefcase" title="Asesoría Administrativa y Estratégica" image="https://cdn.pixabay.com/photo/2021/01/13/16/46/workout-5914643_1280.jpg" subtitle="Diagnóstico organizacional, revisión de procesos y planes de mejora para organizaciones deportivas" >}}

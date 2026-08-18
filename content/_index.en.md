@@ -22,6 +22,8 @@ toc: false
   </div>
 </div>
 
+{{< latest-posts title="Latest posts" limit="3" >}}
+
 {{< cards cols="1" >}}
   {{< card link="services" icon="book-open" title="Sports Event Consulting" image="https://cdn.pixabay.com/photo/2017/05/31/21/48/handball-2361778_1280.jpg" subtitle="Strategic advisory, end-to-end planning and evaluation for nonprofit and for-profit sports events" tag="Free quote">}}
   {{< card link="services" icon="briefcase" title="Administrative and Strategic Advisory" image="https://cdn.pixabay.com/photo/2021/01/13/16/46/workout-5914643_1280.jpg" subtitle="Organizational diagnostics, process review and improvement plans for sports organizations" >}}
