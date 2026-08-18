@@ -18,9 +18,9 @@ languages:
 
 menu:
   main:
-    - identifier: articles
+    - identifier: blog
       name: Artículos
-      pageRef: /articles
+      pageRef: /blog
       weight: 1
       params:
         type: link
