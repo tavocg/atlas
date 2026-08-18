@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Articles
 ---
 
 <div style="text-align:center;margin-top:1em">

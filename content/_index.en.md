@@ -226,7 +226,7 @@ toc: false
           <h3 class="card-title">Tournament Platform and Digitalization</h3>
           <p class="card-description">Registrations, scheduling, standings, statistics and live results in a single platform</p>
         </a>
-        <a href="blog" class="nav-card">
+        <a href="articles" class="nav-card">
           <span class="card-icon">📰</span>
           <h3 class="card-title">Publications</h3>
           <p class="card-description">Latest news, insights and trends in sports</p>

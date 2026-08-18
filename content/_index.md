@@ -226,7 +226,7 @@ toc: false
           <h3 class="card-title">Plataforma y Digitalización de Torneos</h3>
           <p class="card-description">Inscripciones, calendario, estadísticas y resultados en tiempo real en una sola plataforma</p>
         </a>
-        <a href="blog" class="nav-card">
+        <a href="articles" class="nav-card">
           <span class="card-icon">📰</span>
           <h3 class="card-title">Publicaciones</h3>
           <p class="card-description">Últimas noticias, insights y tendencias del deporte</p>
