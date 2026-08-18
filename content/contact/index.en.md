@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Contact
 toc: false
 ---
 
@@ -90,41 +90,41 @@ toc: false
 
 <div class="contact-layout">
 <section class="contact-intro">
-<h2>Conversemos sobre su proyecto</h2>
-<p>Cuéntenos qué necesita y le responderemos para coordinar una primera conversación.</p>
+<h2>Tell us about your project</h2>
+<p>Share what you need and we will reply to coordinate an initial conversation.</p>
 <div class="contact-links">
 <a href="mailto:info@atlascstg.com">info@atlascstg.com</a>
 </div>
 </section>
 <form class="contact-form" action="https://formspree.io/f/xvkpvpab" method="POST">
-<input type="hidden" name="_subject" value="Nuevo mensaje desde Atlas Consulting">
+<input type="hidden" name="_subject" value="New message from Atlas Consulting">
 <input type="text" name="_gotcha" class="contact-hidden" tabindex="-1" autocomplete="off">
 <div class="contact-field">
-<label for="name">Nombre</label>
+<label for="name">Name</label>
 <input id="name" name="name" type="text" autocomplete="name" required>
 </div>
 <div class="contact-field">
-<label for="email">Correo electrónico</label>
+<label for="email">Email</label>
 <input id="email" name="email" type="email" autocomplete="email" required>
 </div>
 <div class="contact-field">
-<label for="organization">Organización</label>
+<label for="organization">Organization</label>
 <input id="organization" name="organization" type="text" autocomplete="organization">
 </div>
 <div class="contact-field">
-<label for="service">Área de interés</label>
+<label for="service">Area of interest</label>
 <select id="service" name="service">
-<option value="">Seleccione una opción</option>
-<option>Consultoría para eventos deportivos</option>
-<option>Asesoría administrativa y estratégica</option>
-<option>Plataforma y digitalización de torneos</option>
-<option>Otro</option>
+<option value="">Select an option</option>
+<option>Sports event consulting</option>
+<option>Administrative and strategic advisory</option>
+<option>Tournament platform and digitalization</option>
+<option>Other</option>
 </select>
 </div>
 <div class="contact-field contact-field-full">
-<label for="message">Mensaje</label>
+<label for="message">Message</label>
 <textarea id="message" name="message" rows="7" required></textarea>
 </div>
-<button class="contact-submit" type="submit">Enviar mensaje</button>
+<button class="contact-submit" type="submit">Send message</button>
 </form>
 </div>

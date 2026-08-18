@@ -34,32 +34,34 @@ menu:
         type: link
         icon: briefcase
 
-    - identifier: contact
-      name: Contact
-      pageRef: /contact
+    - identifier: team
+      name: Team
+      pageRef: /team
       weight: 3
       params:
         type: link
-        icon: user
+        icon: user-group
+
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 4
+      params:
+        type: link
+        icon: inbox
 
     - identifier: about
       name: About
       pageRef: /about
-      weight: 4
+      weight: 5
       params:
         type: link
         icon: information-circle
 
     - name: Search
-      weight: 5
-      params:
-        type: search
-
-    - name: Instagram
-      url: 'https://www.instagram.com/atlasconsulting.cr/'
       weight: 6
       params:
-        icon: instagram
+        type: search
 
     - name: Language Switcher
       weight: 7

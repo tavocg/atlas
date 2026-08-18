@@ -231,9 +231,9 @@ toc: false
           <h3 class="card-title">Publications</h3>
           <p class="card-description">Latest news, insights and trends in sports</p>
         </a>
-        <a href="about" class="nav-card">
+        <a href="team" class="nav-card">
           <span class="card-icon">🏆</span>
-          <h3 class="card-title">About Us</h3>
+          <h3 class="card-title">Team</h3>
           <p class="card-description">Meet our team, experience and track record in the sports sector</p>
         </a>
         <a href="contact" class="nav-card">
